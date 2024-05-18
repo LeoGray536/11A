@@ -1,0 +1,208 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/dog.jfif",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/game.png",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/HandBack.jpg",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/HandClosed.jpg",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/HandFingers.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/IMG_1546.png",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/IMG_1560.MOV",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/IMG_1576.png",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/IMG_1577.png",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/IMG_1579.png",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/IMG_1580.png",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/IMG_1585.png",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/PrusaSliceNameTag.jpeg",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/PrusaSliceNameTag.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/safe.png",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/ScrewCap.png",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/submarine.png",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/Tuner.png",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/VolumeSketch.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/VolumeV1.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/WaterFilter.webp",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/WireWinder.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/index.html",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/HandPalm.jpg",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/filters_huc77310ce4cc2d82cb3bb9145b35d0e83_146493_1200x1200_fit_q75_h2_lanczos.webp",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/FBallBearing.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/FBallBearing.jpeg",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/DisassembledBallBearingV2.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/circus.png",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/cambodia_hucae918de1e6e58ca531739d1f02a0832_1453528_1200x1200_fit_q75_h2_lanczos_3.webp",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/Cambodia.webp",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/cake.png",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/cabin.png",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/BoxLaserCut.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/BearingTester.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/Bearing2Top.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/BallSlice.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/BallBearingV2.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/BallBearingAppart.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/BallBearing2Full.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/BallBearing.PNG",
+		"/C/Users/Leo/OneDrive/Desktop/ENGR11A/ENGR11A-main/assets/img/portfolio/BallBearing.jpeg"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Final.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
